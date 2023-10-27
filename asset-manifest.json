@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-budget-deploy-test-app/static/css/main.e031ab19.chunk.css",
+    "main.js": "/react-budget-deploy-test-app/static/js/main.9c3d03b9.chunk.js",
+    "main.js.map": "/react-budget-deploy-test-app/static/js/main.9c3d03b9.chunk.js.map",
+    "runtime-main.js": "/react-budget-deploy-test-app/static/js/runtime-main.82c57ee2.js",
+    "runtime-main.js.map": "/react-budget-deploy-test-app/static/js/runtime-main.82c57ee2.js.map",
+    "static/js/2.d1569a4f.chunk.js": "/react-budget-deploy-test-app/static/js/2.d1569a4f.chunk.js",
+    "static/js/2.d1569a4f.chunk.js.map": "/react-budget-deploy-test-app/static/js/2.d1569a4f.chunk.js.map",
+    "index.html": "/react-budget-deploy-test-app/index.html",
+    "precache-manifest.9e89f4e5e120d29e1fced9e06a42545a.js": "/react-budget-deploy-test-app/precache-manifest.9e89f4e5e120d29e1fced9e06a42545a.js",
+    "service-worker.js": "/react-budget-deploy-test-app/service-worker.js",
+    "static/css/main.e031ab19.chunk.css.map": "/react-budget-deploy-test-app/static/css/main.e031ab19.chunk.css.map",
+    "static/js/2.d1569a4f.chunk.js.LICENSE.txt": "/react-budget-deploy-test-app/static/js/2.d1569a4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c57ee2.js",
+    "static/js/2.d1569a4f.chunk.js",
+    "static/css/main.e031ab19.chunk.css",
+    "static/js/main.9c3d03b9.chunk.js"
+  ]
+}
